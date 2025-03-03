@@ -2,6 +2,12 @@
 
 This is the repository for the LinkedIn Learning course `MongoDB Code Challenges: From Beginner to Advanced`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+## Course Description
+
+In this course, learn essential skills to harness data using MongoDB and the tools to keep learning as technology evolves. Join instructor John Cokos for a series of code challenges—ranging from beginner to advanced—that will test your CRUD skills in MongoDB and help you take control of your data.
+
 _See the readme file in the main branch for updated instructions and information._
 
 ## Instructions
@@ -32,7 +38,7 @@ To resolve this issue:
    - MongoDB [Shell](https://www.mongodb.com/docs/mongodb-shell/) (mongosh)
    - An active [Microsoft CoPilot](https://copilot.microsoft.com) or [ChatGPT](https://chatgpt.com/) account
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
 
 ## Instructor
 
@@ -43,3 +49,10 @@ John is Director of Curriculum and Principal Instructor at Code Fellows, a techn
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/john-cokos).
 
 - [Data Modeling in MongoDB](https://www.linkedin.com/learning/data-modeling-in-mongodb)
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/mongodb-code-challenges-from-beginner-to-advanced
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEN22KHlQKRKQ/learning-public-crop_675_1200/B4EZUlX6LjGgAc-/0/1740088780158?e=2147483647&v=beta&t=OatetmNWUalCJIYD08oP-UDvtXLWV1XTah0VPuf7OAc
+
+
